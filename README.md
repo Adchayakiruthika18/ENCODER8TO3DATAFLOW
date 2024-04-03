@@ -72,6 +72,7 @@ endmodule
 ![image](https://github.com/Adchayakiruthika18/ENCODER8TO3DATAFLOW/assets/147139995/9d75e7f0-a884-481f-bbb3-cc770abc3113)
 
 **RESULTS**
+
 Therefore the code has been successfully executed.
 
 
